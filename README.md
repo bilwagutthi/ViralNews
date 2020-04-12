@@ -16,5 +16,5 @@ Program does the following:
 ## Running
 
 Run the program using 
-'python main.py'
+`python main.py`
 
