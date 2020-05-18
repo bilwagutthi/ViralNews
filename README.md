@@ -1,6 +1,5 @@
 # ViralNews
 ***
-Submitted for Bipolar Factory internship selection - Task A.
 
 ## Problem Statement
 Crawl news & information websites & anticipate the likelihood of its virality
